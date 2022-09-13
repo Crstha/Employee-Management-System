@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "email": "crstha850@gmail.com",
+      "password": "Univers@l10",
+      "role": "admin",
+      "gender": "male",
+      "fName": "Subarna",
+      "mName": "Ratna",
+      "lName": "Shrestha",
+      "contact": "9818122965",
+      "department": "IT",
+      "position": "Project Manager",
+      "id": 1
+    },
+    {
+      "email": "crstha850@gmail.com",
+      "password": "Univers@l10",
+      "role": "admin",
+      "gender": "male",
+      "fName": "Subarna",
+      "mName": "Ratna",
+      "lName": "Shrestha",
+      "contact": "9818122965",
+      "department": "IT",
+      "position": "Project Manager",
+      "id": 2
+    },
+    {
+      "email": "crstha850@gmail.com",
+      "password": "Univers@l10",
+      "role": "admin",
+      "gender": "male",
+      "fName": "Subarna",
+      "mName": "Ratna",
+      "lName": "Shrestha",
+      "contact": "9818122965",
+      "department": "IT",
+      "position": "Project Manager",
+      "id": 3
+    },
+    {
+      "email": "Prajita@gmail.com",
+      "password": "Prajita@10",
+      "role": "employee",
+      "gender": "female",
+      "fName": "Prajita",
+      "mName": "",
+      "lName": "Shrestha",
+      "contact": "9818122966",
+      "department": "IT",
+      "position": "Software Developer",
+      "id": 4
+    }
+  ]
+}
